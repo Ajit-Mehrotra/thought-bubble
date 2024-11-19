@@ -1,0 +1,4 @@
+- [ ] Read [Substack](https://newsletter.pragmaticengineer.com/?triedSigningIn=true) Article
+- [ ] Finish one [LeetCode](https://neetcode.io/practice) Problem
+- [ ] Read one book a little (you can do it!)
+- [ ] Linear Algebra (khan academy)

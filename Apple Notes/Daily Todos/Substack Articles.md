@@ -1,0 +1,3 @@
+- [ ] [Finding Product Market Fit (Lenny)](https://www.lennysnewsletter.com/p/finding-product-market-fit)
+- [ ] [Inside Stripe’s Engineering Culture (Pragmatic Engineering)](https://newsletter.pragmaticengineer.com/?triedSigningIn=true)
+- [ ] [Age of the App is Over](https://browsercompany.substack.com/p/the-age-of-the-app-is-over) [(ARC)](https://browsercompany.substack.com/p/the-age-of-the-app-is-over)
