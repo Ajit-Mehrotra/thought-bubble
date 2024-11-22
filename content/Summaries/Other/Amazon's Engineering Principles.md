@@ -1,15 +1,13 @@
 ---
-title: "<%[[tp.file.title]]%> "
+title: "Amazon's Engineering Principles "
 draft: false
 tags:
-
 ---
 
 ##### External Links
 
 
 ##### Internal Links
-
 
 # Summary
 

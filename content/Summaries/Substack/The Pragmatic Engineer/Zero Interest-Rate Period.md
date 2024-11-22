@@ -1,5 +1,5 @@
 ---
-title: "<%[[tp.file.title]]%> "
+title: "Zero Interest-Rate Period "
 draft: false
 tags:
 
